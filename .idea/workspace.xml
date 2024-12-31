@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e9d4d86-2a0b-4f4a-9c96-0cab3951e7b4" name="Changes" comment="**subtract two numbers**">
+    <list default="true" id="6e9d4d86-2a0b-4f4a-9c96-0cab3951e7b4" name="Changes" comment="**multiply two numbers**">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="add-two-numbers" />
+        <entry key="$PROJECT_DIR$" value="subtract-two-numbers" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +33,17 @@
     &quot;assignee&quot;: &quot;FirstGit178&quot;
   }
 }</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDONiJPts6GgJ9j",
+        "number": 1
+      },
+      "lastSeen": 1735661898869
+    }
+  ]
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/FirstGit178/Week3OOP_3.git",
@@ -61,7 +72,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#1 on subtract-two-numbers",
+    "git-widget-placeholder": "multiply-two-numbers",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735133046138</updated>
       <workItem from="1735133047563" duration="1091000" />
-      <workItem from="1735660289349" duration="1477000" />
+      <workItem from="1735660289349" duration="2405000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Calc_3 commit">
       <option name="closed" value="true" />
@@ -115,7 +126,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735660759178</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="**subtract two numbers**">
+      <option name="closed" value="true" />
+      <created>1735662022682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735662022682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="**subtract two numbers**">
+      <option name="closed" value="true" />
+      <created>1735662097218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735662097218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="**multiply two numbers**">
+      <option name="closed" value="true" />
+      <created>1735662374395</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735662374395</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +167,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -148,6 +183,7 @@
     <MESSAGE value="Initial Calc_3 commit" />
     <MESSAGE value="**add two numbers**" />
     <MESSAGE value="**subtract two numbers**" />
-    <option name="LAST_COMMIT_MESSAGE" value="**subtract two numbers**" />
+    <MESSAGE value="**multiply two numbers**" />
+    <option name="LAST_COMMIT_MESSAGE" value="**multiply two numbers**" />
   </component>
 </project>
