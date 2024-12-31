@@ -32,6 +32,11 @@ public class Calc {
                 System.out.println("The result is " + (firstNum + secondNum));
                 yield firstNum + secondNum;
             }
+            // subtraction
+            case "subtract" -> {
+                System.out.println("The result is " + (firstNum - secondNum));
+                yield firstNum - secondNum;
+            }
             // default if anything except valid option is selected //yield in default case
             default -> {
                 System.out.println("Invalid operation.");
